@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Jogo da velha Activity -->
+    <item name="activity_jogodavelha_imageview_quadrado_um" type="id"/>
+    <item name="activity_jogodavelha_imageview_quadrado_dois" type="id"/>
+    <item name="activity_jogodavelha_imageview_quadrado_tres" type="id"/>
+    <item name="activity_jogodavelha_imageview_quadrado_quatro" type="id"/>
+    <item name="activity_jogodavelha_imageview_quadrado_cinco" type="id"/>
+    <item name="activity_jogodavelha_imageview_quadrado_seis" type="id"/>
+    <item name="activity_jogodavelha_imageview_quadrado_sete" type="id"/>
+    <item name="activity_jogodavelha_imageview_quadrado_oito" type="id"/>
+    <item name="activity_jogodavelha_imageview_quadrado_nove" type="id"/>
+
+</resources>
